@@ -9,6 +9,7 @@
 # Установка
 
 git clone https://github.com/VitalyMyalkin/favs_testing.git
+
 cd favs_testing
 
 pip install pytest
