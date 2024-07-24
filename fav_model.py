@@ -11,5 +11,4 @@ class Favorite(TypedDict):
 
 
 class ErrorModel(TypedDict):
-    id: int
-    title: str
+    error: dict[str, str]

@@ -1,4 +1,4 @@
-from favs_testing.models.fav_place import Favorite
+from .fav_model import Favorite
 
 def assert_fav(
         expected_fav: Favorite,
